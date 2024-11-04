@@ -1,1 +1,1 @@
-docker run -d --add-host=host.docker.internal:host-gateway -e DB_HOST=host.docker.internal -e DB_PORT=5432 my-web-app:latest
+ run -d --add-host=host.docker.internal:host-gateway -e DB_HOST=host.docker.internal -e DB_PORT=5432 my-web-app:
